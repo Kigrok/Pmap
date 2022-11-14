@@ -1,4 +1,5 @@
 # Pmap
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Pmap Logo](https://lh3.googleusercontent.com/drive-viewer/AJc5JmTJMZHWfj51bhxa9Oib1P_uIcBEcsuycMmX-K-Kaxm3rLNehMjLX6ODkUaL0GCa3-TRkdIpEPw=w1366-h656)
 
